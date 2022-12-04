@@ -1,0 +1,100 @@
+.p-title{
+    margin: 3% 0px 0px 5%;
+}
+.p-title a{
+    font-size: xx-large;
+    font-weight: 600;
+    color: inherit;
+    font-weight: 540;
+    list-style: none;
+    text-decoration-line:none;
+}
+.PR ul{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+.title a{
+    list-style: none;
+    text-decoration-line:none;
+    color: inherit;
+    Position: Sticky;
+}
+hr{
+    color: #333333;
+}
+div > div > .PR{
+    padding: 100px 30px 80px 30px;	
+}
+div > div > h1{ 
+    padding : 50px 0px 0px 100px;
+}
+div > div >.PR  h2, p{
+    text-align: center;
+}
+div > div >.PR h2{
+    color: #333333;
+}
+div > div >.PR p{
+    color: #747474;
+}
+.heritage, .date{
+    color: #2b2b2b;
+    float: left;
+    width: 500px;
+}
+.date{
+    text-align: right;
+    /* width: 150px; */
+}
+
+.school{
+    width: 990px; 
+    margin: auto;
+}
+.title-s > h2{
+    color: #333333;
+    padding-left : 130px;
+}
+.d-flex{
+    display: flex; 
+    justify-content: space-between
+}
+.heritage h3{
+    height: 25px;
+}
+.heritage, .date{
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    width: 50%;
+}
+.heritage h2{
+            color: #333333;
+}
+.art_heritage{
+    margin: 40px 30px 90px 100px;}
+    
+.d-flex{display: flex; justify-content: space-between}
+	.heritage h3{height: 25px;}
+	.heritage, .date{margin: 0; padding: 0; box-sizing: border-box; width: 50%;}
+
+	#edu01 .heritage{width: 100%;}
+	.inline-block{display: inline-block}
+section .main_mov{
+    background-color: #333333;
+    width: 100%;
+}
+.back{
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 50px;
+    text-align: right ;
+}
+
+
+video{
+    width: 50%;
+    height: inherit;
+}
+
