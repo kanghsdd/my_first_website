@@ -1,0 +1,97 @@
+
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+header {
+  position: fixed;
+  z-index: 9;
+  width: 100%;
+}
+.p-title{
+    margin: 3% 0px 0px 5%;
+}
+.p-title a{
+font-size: xx-large;
+font-weight: 600;
+color: inherit;
+font-weight: 540;
+list-style: none;
+text-decoration-line:none;
+}
+
+nav{
+  position: fixed;
+  padding-top: 15%;
+  z-index: 10;
+}
+.archive-list{
+  overflow: auto;
+  width: 240px;
+  height: 450px;
+}
+#line-between{
+  padding-top: 3px;
+  z-index: 1;
+  width: 100%;
+}
+
+img{
+  float: right;
+  max-width: 85%;
+  height: auto;
+  padding-right: 10px; 
+  padding-bottom: 10px;
+}
+.theme{
+  padding-bottom: 40px;
+  float: right;
+}
+
+section{
+  padding-top: 20%;
+  text-align: right;
+}
+section ul{
+  padding-right: 10px;
+  list-style: none;
+}
+
+.archive-list {
+  float: left;
+  position: relative;
+  z-index: 8;
+}
+.archive-content{
+position: absolute;
+z-index: 3;
+}
+.archive-list ul li {
+
+  list-style: none;
+  padding-bottom: 10px;
+  
+}
+.archive-list ul li a{
+  text-decoration: none;
+  color: inherit;
+}
+
+nav li{
+  margin-bottom: 20px;
+}
+
+.back{
+  z-index: 11;
+  text-align: right;
+  height: 40px;
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  padding-bottom: 30px;
+}
+.back a{
+  padding-right: 5%;
+}

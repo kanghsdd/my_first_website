@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Do it! HTML+CSS+자바스크립트 웹 표준의 정석_본문_예제소스_220311"
+		},
+		{
+			"path": "../../k-move_data"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "01"
+	}
+}
